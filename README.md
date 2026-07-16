@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ashritha-P-04/leetcode/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Ashritha-P-04/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Ashritha-P-04/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
