@@ -20,9 +20,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ashritha-P-04/leetcode/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Ashritha-P-04/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashritha-P-04/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ashritha-P-04/leetcode/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Ashritha-P-04/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashritha-P-04/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashritha-P-04/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashritha-P-04/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
