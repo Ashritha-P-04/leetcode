@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashritha-P-04/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Database
+|  |
+| ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Ashritha-P-04/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
