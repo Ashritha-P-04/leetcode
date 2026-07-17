@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ashritha-P-04/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashritha-P-04/leetcode/tree/master/0088-merge-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Ashritha-P-04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Ashritha-P-04/leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Ashritha-P-04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashritha-P-04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
