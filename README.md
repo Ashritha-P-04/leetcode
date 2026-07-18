@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ashritha-P-04/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashritha-P-04/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Ashritha-P-04/leetcode/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/Ashritha-P-04/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashritha-P-04/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashritha-P-04/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Ashritha-P-04/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashritha-P-04/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashritha-P-04/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ashritha-P-04/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
